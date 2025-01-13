@@ -1,5 +1,5 @@
 <!--Banner-->
-![Landing Page_Log](./Logo/Landpage_logo.svg)
+![Landing Page_Log](./logos/Landpage_logo.svg)
 
 ---
 
