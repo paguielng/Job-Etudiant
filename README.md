@@ -1,75 +1,28 @@
-# Job-Etudiant
 # Designs et Logos du Site
 
 Ce dépôt contient les designs des pages du site et les logos associés, organisés pour une consultation et une utilisation facile.
 
-## Contenu du dépôt
+---
 
-### 1. **Designs des pages du site**
-Les designs des pages sont disponibles au format PDF dans le dossier `designs/pages`.
+## 🌟 Introduction
 
-#### Liste des pages
-- LiveParticipate
-- LiveScreenCapture
-- Paid Webinar - 2
-- LiveSansCam
-- Status
-- Progress
-- FAQ
-- Home
-- MegaMenus
-- Account creation
-- Page d'accueil
-- Work Registration_form
-- Creation de compte Etape
-- JobLink Forum
-- JobLink Portail
-- Dashboard
-- Job Apply
-- JobLink Profile Stats
-- Renseignement form
-- LiveInviteCam
-- LiveCamComent
-- RecruiterToDoSpace
-- Recruiter Int_calendar
-- Recruiter Interview_calendar
-- Recruiter int_calendar - 2
-- Application Calendar_Manager
-
-Les fichiers sont organisés dans le dossier : [`designs/pages`](designs/pages).
+Bienvenue dans le dépôt des designs et logos du projet. Vous trouverez ici :
+- Les maquettes des pages du site au format PDF.
+- Les logos en différents formats (PNG et SVG).
+- Une organisation claire pour faciliter l'accès aux ressources.
 
 ---
 
-### 2. **Logos du site**
-Les logos sont disponibles en deux formats : **PNG** et **SVG**, situés dans le dossier `designs/logos`.
+## 📂 Structure du Dépôt
 
-#### Liste des fichiers logos
-- `logo.svg` : Version vectorielle du logo principal.
-- `logo.png` : Version rasterisée du logo principal.
-- `favicon.svg` : Version vectorielle pour le favicon.
+Voici la structure principale :
 
-Les fichiers sont organisés dans le dossier : [`designs/logos`](designs/logos).
-
----
-
-## Utilisation des fichiers
-
-### Designs PDF
-- Les fichiers PDF sont destinés à la présentation et à la documentation des designs des pages du site.
-- Ils peuvent être ouverts avec n'importe quel lecteur PDF.
-
-### Logos SVG/PNG
-- **SVG** : Utilisez ce format pour des graphiques vectoriels redimensionnables sans perte de qualité. Convient aux intégrations web et au développement.
-- **PNG** : Utilisez ce format pour des images rasterisées. Convient aux prévisualisations rapides ou lorsque le format vectoriel n'est pas nécessaire.
-
----
-
-## Structure du dépôt
 ```
 /designs
 ├── /pages
 │   ├── LiveParticipate.pdf
 │   ├── LiveScreenCapture.pdf
+│   ├── Paid_Webinar_2.pdf
 │   ├── ...
 ├── /logos
 │   ├── logo.svg
@@ -77,14 +30,80 @@ Les fichiers sont organisés dans le dossier : [`designs/logos`](designs/logos).
 │   ├── favicon.svg
 ```
 
+### Détails des dossiers
+
+#### `designs/pages`
+Ce dossier contient les maquettes des pages du site au format PDF.
+- **Usage** : Ces fichiers servent à documenter les designs pour la conception et le développement.
+
+Liste des fichiers :
+- LiveParticipate.pdf
+- LiveScreenCapture.pdf
+- Paid Webinar - 2.pdf
+- LiveSansCam.pdf
+- Status.pdf
+- Progress.pdf
+- FAQ.pdf
+- Home.pdf
+- MegaMenus.pdf
+- Account creation.pdf
+- Page d'accueil.pdf
+- Work Registration_form.pdf
+- Creation de compte Etape.pdf
+- JobLink Forum.pdf
+- JobLink Portail.pdf
+- Dashboard.pdf
+- Job Apply.pdf
+- JobLink Profile Stats.pdf
+- Renseignement form.pdf
+- LiveInviteCam.pdf
+- LiveCamComent.pdf
+- RecruiterToDoSpace.pdf
+- Recruiter Int_calendar.pdf
+- Recruiter Interview_calendar.pdf
+- Recruiter int_calendar - 2.pdf
+- Application Calendar_Manager.pdf
+
+#### `designs/logos`
+Ce dossier contient les logos du projet.
+- **Formats disponibles** : SVG et PNG.
+- **Usage** : 
+  - SVG : Pour les graphiques vectoriels haute qualité, idéaux pour les intégrations web.
+  - PNG : Pour les prévisualisations rapides ou les plateformes qui ne supportent pas le SVG.
+
+Liste des fichiers :
+- logo.svg
+- logo.png
+- favicon.svg
+
 ---
 
-## Contribution
-Si vous souhaitez contribuer au projet ou ajouter de nouveaux designs :
-1. Assurez-vous que les fichiers suivent la même organisation et structure.
-2. Proposez vos modifications via une pull request.
+## 🚀 Utilisation des Fichiers
+
+### Designs PDF
+- Ouvrez les fichiers avec un lecteur PDF standard.
+- Utilisez-les comme référence pour le développement des pages du site.
+
+### Logos
+- **SVG** : Idéal pour les sites web et les impressions.
+- **PNG** : Convient pour les présentations ou usages nécessitant un format rasterisé.
 
 ---
 
-## Auteur
-Ce projet a été conçu et organisé par [Nom de l'utilisateur]. Pour toute question, n'hésitez pas à me contacter !
+## 🤝 Contribuer
+
+Les contributions sont les bienvenues ! Voici comment vous pouvez aider :
+1. Forkez ce dépôt.
+2. Créez une branche pour votre fonctionnalité : `git checkout -b feature/nom-fonctionnalite`.
+3. Ajoutez vos fichiers en respectant la structure existante.
+4. Faites une Pull Request pour discussion et intégration.
+
+---
+
+## 👨‍💻 Auteur
+Conçu et maintenu par **[Nom de l'utilisateur]**. Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à me contacter directement.
+
+---
+
+## 📝 Licence
+Ce projet est sous licence **[Nom de la licence]**. Veuillez consulter le fichier LICENSE pour plus d'informations.
