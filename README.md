@@ -121,4 +121,4 @@ Ce projet est sous licence **[Nom de la licence]**. Veuillez consulter le fichie
 ---
 
 <!--Banner-->
-![Landing Page_Log](./JobetudianntPortail_logo.svg)  <div align="right"><img src="./Logo_yellow.svg" width="4%" alt="Image 1" />
+![Landing Page_Log](./JobetudianntPortail_logo.svg)<div align="right"><img src="./Logo_yellow.svg" width="4%" alt="Image 1" />
