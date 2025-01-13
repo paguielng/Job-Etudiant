@@ -119,13 +119,8 @@ Ce projet est sous licence **[Nom de la licence]**. Veuillez consulter le fichie
 </p>
 
 ---
-
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+<div align="center">
+  <img src="https://i.imgur.com/emszodP.png" width="30%" alt="Image 1" />
+  <img src="https://i.imgur.com/JUxf2zF.png" width="30%" alt="Image 2" />
+  <img src="https://i.imgur.com/NQJ8GOl.png" width="30%" alt="Image 3" />
+</div>
