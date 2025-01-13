@@ -27,6 +27,38 @@ Voici la structure principale :
 │   ├── logo.svg
 │   ├── logo.png
 │   ├── favicon.svg
+├── /designs
+│   ├── /LiveParticipate
+|   |   ├── LiveParticipate.pdf
+│   |   ├── LiveScreenCapture.pdf
+|   |   ├── LiveSansCam.pdf
+|   │   ├── LiveInviteCam.pdf
+│   |   ├── LiveCamComent.pdf
+│   ├── /Paage Webinar
+|   |   ├── Paage Webinar - 2.pdf
+│   ├── Status.pdf
+│   ├── Progress.pdf
+│   ├── FAQ.pdf
+│   ├── Home.pdf
+│   ├── MegaMenus.pdf
+│   ├── Account creation.pdf
+│   ├── Page d'accueil.pdf
+│   ├── Work Registration_form.pdf
+│   ├── Creation de compte Etape.pdf
+│   ├── JobLink Forum.pdf
+│   ├── JobLink Portail.pdf
+│   ├── Dashboard.pdf
+│   ├── Job Apply.pdf
+│   ├── JobLink Profile Stats.pdf
+│   ├── Renseignement form.pdf
+|   ├── / Recruiter Space
+│   |   ├── RecruiterToDoSpace.pdf
+│   |   ├── Recruiter Int_calendar.pdf
+│   |   ├── Recruiter Interview_calendar.pdf
+│   |   ├── Recruiter int_calendar - 2.pdf
+│   |   ├── - Recruiter int_calendar - 2.pdf
+
+
 ```
 
 ### Détails des dossiers
@@ -34,34 +66,6 @@ Voici la structure principale :
 #### `designs/pages`
 Ce dossier contient les maquettes des pages du site au format PDF.
 - **Usage** : Ces fichiers servent à documenter les designs pour la conception et le développement.
-
-Liste des fichiers :
-- LiveParticipate.pdf
-- LiveScreenCapture.pdf
-- Paid Webinar - 2.pdf
-- LiveSansCam.pdf
-- Status.pdf
-- Progress.pdf
-- FAQ.pdf
-- Home.pdf
-- MegaMenus.pdf
-- Account creation.pdf
-- Page d'accueil.pdf
-- Work Registration_form.pdf
-- Creation de compte Etape.pdf
-- JobLink Forum.pdf
-- JobLink Portail.pdf
-- Dashboard.pdf
-- Job Apply.pdf
-- JobLink Profile Stats.pdf
-- Renseignement form.pdf
-- LiveInviteCam.pdf
-- LiveCamComent.pdf
-- RecruiterToDoSpace.pdf
-- Recruiter Int_calendar.pdf
-- Recruiter Interview_calendar.pdf
-- Recruiter int_calendar - 2.pdf
-- Application Calendar_Manager.pdf
 
 #### `designs/logos`
 Ce dossier contient les logos du projet.
