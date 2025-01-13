@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![Landing Page_Log](./Landpage_logo.svg)
 
 Ce dépôt contient les designs des pages du site et les logos associés, organisés pour une consultation et une utilisation facile.
 
