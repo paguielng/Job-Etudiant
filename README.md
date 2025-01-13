@@ -1,5 +1,5 @@
 <!--Banner-->
-![Landing Page_Log](./Logos/Landpage_logo.svg)
+![Landing Page_Log](./Logos/Landpage_logo.svg)  ![Landing Page_Log](./Logo_yellow.svg)
 
 ---
 
@@ -121,4 +121,4 @@ Ce projet est sous licence **[Nom de la licence]**. Veuillez consulter le fichie
 ---
 
 <!--Banner-->
-![Landing Page_Log](./JobetudianntPortail_logo.svg)![Landing Page_Log](./Logo_yellow.svg)
+![Landing Page_Log](./JobetudianntPortail_logo.svg)
