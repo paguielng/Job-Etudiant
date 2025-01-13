@@ -121,6 +121,6 @@ Ce projet est sous licence **[Nom de la licence]**. Veuillez consulter le fichie
 ---
 <div align="center">
   <img src="https://i.imgur.com/emszodP.png" width="15%" alt="Image 1" />
-  <img src="https://i.imgur.com/JUxf2zF.png" width="15%" alt="Image 2" />
-  <img src="https://i.imgur.com/NQJ8GOl.png" width="15%" alt="Image 3" />
+  <img src="https://i.imgur.com/JUxf2zF.png" width="6%" alt="Image 2" />
+  <img src="https://i.imgur.com/NQJ8GOl.png" width="25%" alt="Image 3" />
 </div>
